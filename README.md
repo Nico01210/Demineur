@@ -1,4 +1,4 @@
-# Jeu du Démineur
+# 💣 Jeu du Démineur 💣
 
 Bienvenue sur le dépôt de mon jeu du Démineur ! Ce jeu classique de démineur a été développé en utilisant **p5.js** et est disponible pour jouer directement sur GitHub Pages.
 
